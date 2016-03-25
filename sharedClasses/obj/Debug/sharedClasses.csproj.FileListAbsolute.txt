@@ -1,0 +1,6 @@
+D:\c#\Project\cybrusToolKit\sharedClasses\bin\Debug\sharedClasses.exe.config
+D:\c#\Project\cybrusToolKit\sharedClasses\bin\Debug\sharedClasses.exe
+D:\c#\Project\cybrusToolKit\sharedClasses\bin\Debug\sharedClasses.pdb
+D:\c#\Project\cybrusToolKit\sharedClasses\obj\Debug\sharedClasses.exe
+D:\c#\Project\cybrusToolKit\sharedClasses\obj\Debug\sharedClasses.pdb
+D:\c#\Project\cybrusToolKit\sharedClasses\obj\Debug\sharedClasses.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+D:\c#\Project\cybrusToolKit\PL\bin\Debug\PL.exe.config
+D:\c#\Project\cybrusToolKit\PL\bin\Debug\PL.exe
+D:\c#\Project\cybrusToolKit\PL\bin\Debug\PL.pdb
+D:\c#\Project\cybrusToolKit\PL\bin\Debug\BL.exe
+D:\c#\Project\cybrusToolKit\PL\bin\Debug\sharedClasses.exe
+D:\c#\Project\cybrusToolKit\PL\bin\Debug\DAL.exe
+D:\c#\Project\cybrusToolKit\PL\bin\Debug\BL.pdb
+D:\c#\Project\cybrusToolKit\PL\bin\Debug\sharedClasses.pdb
+D:\c#\Project\cybrusToolKit\PL\bin\Debug\DAL.pdb
+D:\c#\Project\cybrusToolKit\PL\obj\Debug\PL.csprojResolveAssemblyReference.cache
+D:\c#\Project\cybrusToolKit\PL\obj\Debug\PL.exe
+D:\c#\Project\cybrusToolKit\PL\obj\Debug\PL.pdb

@@ -1,0 +1,10 @@
+D:\c#\Project\cybrusToolKit\DAL\bin\Debug\DAL.exe.config
+D:\c#\Project\cybrusToolKit\DAL\bin\Debug\verificationInfo.mdf
+D:\c#\Project\cybrusToolKit\DAL\bin\Debug\verificationInfo_log.ldf
+D:\c#\Project\cybrusToolKit\DAL\bin\Debug\DAL.exe
+D:\c#\Project\cybrusToolKit\DAL\bin\Debug\DAL.pdb
+D:\c#\Project\cybrusToolKit\DAL\bin\Debug\sharedClasses.exe
+D:\c#\Project\cybrusToolKit\DAL\bin\Debug\sharedClasses.pdb
+D:\c#\Project\cybrusToolKit\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\c#\Project\cybrusToolKit\DAL\obj\Debug\DAL.exe
+D:\c#\Project\cybrusToolKit\DAL\obj\Debug\DAL.pdb

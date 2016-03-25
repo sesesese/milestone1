@@ -1,0 +1,19 @@
+D:\c#\Project\cybrusToolKit\ProgramLauncher\bin\Debug\ProgramLauncher.exe.config
+D:\c#\Project\cybrusToolKit\ProgramLauncher\obj\Debug\ProgramLauncher.csprojResolveAssemblyReference.cache
+D:\c#\Project\cybrusToolKit\ProgramLauncher\bin\Debug\verificationInfo.mdf
+D:\c#\Project\cybrusToolKit\ProgramLauncher\bin\Debug\verificationInfo_log.ldf
+D:\c#\Project\cybrusToolKit\ProgramLauncher\bin\Debug\ProgramLauncher.exe
+D:\c#\Project\cybrusToolKit\ProgramLauncher\bin\Debug\ProgramLauncher.pdb
+D:\c#\Project\cybrusToolKit\ProgramLauncher\bin\Debug\BL.exe
+D:\c#\Project\cybrusToolKit\ProgramLauncher\bin\Debug\DAL.exe
+D:\c#\Project\cybrusToolKit\ProgramLauncher\bin\Debug\PL.exe
+D:\c#\Project\cybrusToolKit\ProgramLauncher\bin\Debug\sharedClasses.exe
+D:\c#\Project\cybrusToolKit\ProgramLauncher\bin\Debug\BL.pdb
+D:\c#\Project\cybrusToolKit\ProgramLauncher\bin\Debug\DAL.pdb
+D:\c#\Project\cybrusToolKit\ProgramLauncher\bin\Debug\PL.pdb
+D:\c#\Project\cybrusToolKit\ProgramLauncher\bin\Debug\sharedClasses.pdb
+D:\c#\Project\cybrusToolKit\ProgramLauncher\obj\Debug\ProgramLauncher.exe
+D:\c#\Project\cybrusToolKit\ProgramLauncher\obj\Debug\ProgramLauncher.pdb
+C:\Users\עדיאל בניטה\Dropbox\cyberus\project_2\Project\cybrusToolKit\ProgramLauncher\bin\Debug\ProgramLauncher.exe.config
+C:\Users\עדיאל בניטה\Dropbox\cyberus\project_2\Project\cybrusToolKit\ProgramLauncher\obj\Debug\ProgramLauncher.exe
+C:\Users\עדיאל בניטה\Dropbox\cyberus\project_2\Project\cybrusToolKit\ProgramLauncher\obj\Debug\ProgramLauncher.pdb

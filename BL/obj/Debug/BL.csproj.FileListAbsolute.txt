@@ -1,0 +1,12 @@
+D:\c#\Project\cybrusToolKit\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+D:\c#\Project\cybrusToolKit\BL\bin\Debug\BL.exe.config
+D:\c#\Project\cybrusToolKit\BL\bin\Debug\verificationInfo.mdf
+D:\c#\Project\cybrusToolKit\BL\bin\Debug\verificationInfo_log.ldf
+D:\c#\Project\cybrusToolKit\BL\bin\Debug\BL.exe
+D:\c#\Project\cybrusToolKit\BL\bin\Debug\BL.pdb
+D:\c#\Project\cybrusToolKit\BL\bin\Debug\DAL.exe
+D:\c#\Project\cybrusToolKit\BL\bin\Debug\sharedClasses.exe
+D:\c#\Project\cybrusToolKit\BL\bin\Debug\DAL.pdb
+D:\c#\Project\cybrusToolKit\BL\bin\Debug\sharedClasses.pdb
+D:\c#\Project\cybrusToolKit\BL\obj\Debug\BL.exe
+D:\c#\Project\cybrusToolKit\BL\obj\Debug\BL.pdb
